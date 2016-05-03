@@ -1,1 +1,0 @@
-/home/trouf/.config/i3/
